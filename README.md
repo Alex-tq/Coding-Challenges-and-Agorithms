@@ -1,6 +1,6 @@
 # Coding-Challenges-and-Agorithms
 
-##Basic JavaScript: Record Collection
+## Basic JavaScript: Record Collection
 
 You are given a JSON object representing a part of your musical album collection.
 
